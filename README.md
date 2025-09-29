@@ -1,2 +1,1 @@
-prova 2 ngrok (18/09)
-
+commit prova amb ld_eval aixecat
